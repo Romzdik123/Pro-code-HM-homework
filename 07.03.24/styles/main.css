@@ -1,0 +1,89 @@
+body {
+	background-color: #eee;
+}
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+}
+.card1 {
+	background-color: #fff; 
+	width: 250px;
+	height: 270px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 60px;
+}
+.card2 {
+	background-color: #fff; 
+	width: 250px;
+	height: 270px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 60px;
+}
+.card3 {
+	background-color: #fff; 
+	width: 250px;
+	height: 270px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 60px;
+}
+.card4 {
+	background-color: #fff; 
+	width: 250px;
+	height: 270px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	margin-right: 60px;
+}
+.card5 {
+	background-color: #fff; 
+	width: 250px;
+	height: 270px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+.card-img3 {
+	width: 250px;
+	height: 120px
+}
+.card-img5 {
+	width: 230px;
+	height: 120px
+}
+.card-img {
+	width: 200px;
+	height: 120px;
+}
+.price {
+	display: flex;
+}
+.tag {
+	display: flex;
+	font-size: 14px;
+	border: 1px solid black;
+	background-color: yellow;
+	border-radius: 5px;
+    flex-wrap: wrap;
+    margin: 3px;
+    padding: 3px;
+}
+
+.btn {
+	margin: 10px;
+	text-align: center;
+}
+
+.btn > button {
+	width: 90px;
+	background-color: #846A6A;
+	border-radius: 5px;
+}
